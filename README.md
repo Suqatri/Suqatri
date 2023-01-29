@@ -7,5 +7,3 @@
   <br>
   <br>
 </p>
-
-<p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Suqatri&theme=react-dark" alt="Suqatri" /> </p>
