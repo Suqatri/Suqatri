@@ -1,13 +1,51 @@
-[![wakatime](https://wakatime.com/badge/user/f492a0d2-e3af-4906-99eb-53fb16bacca5.svg)](https://wakatime.com/@f492a0d2-e3af-4906-99eb-53fb16bacca5) Total time coded since Oct 25 2021
-<p align="center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Suqatri&show_icons=true&count_private=true&theme=algolia&hide_border=true&hide=issues&bg_color=00000000">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Suqatri&layout=compact&hide_border=true&theme=algolia&bg_color=00000000&langs_count=6&count_private=true">
+# 👋 Hi, I'm Paul
 
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=Suqatri&theme=algolia&hide_border=true&background=FFFFFF00&count_private=true">
-  <br>
-  <br>
-  <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## 🚀 About Me
 
+📍  Germany
 
-</p>
+💻 Favorite languages: **Python** & **Kotlin**
+
+☁️ Working with \*\*Kubernetes\*\* for infrastructure solutions
+
+🔧 Familiar with both Waterfall and Scrum approaches
+
+## 🛠️ Tech Stack
+
+* **Programming Languages:** Python, Kotlin, Java, TypeScript, JavaScript, PHP *(basic knowledge: C, C++)*
+* **Backend:** Flask, Laravel, Javalin, Ktor, Spring
+* **Frontend:** Angular, TailwindCSS, HTML, Bootstrap CSS
+* **Databases:** PostgreSQL, MongoDB, Redis
+* **Communication**: Kafka, gRPC, Redis Pub/Subs, MQTT, RestAPIs, GraphQL
+* **Monitoring:** Sentry, Grafana
+* **DevOps / Infrastructure:** Kubernetes, Docker, Cloudflared, Tailscale, GitHub Actions
+
+## 📝 Current Focus
+
+* Improving **microservice architectures**
+* Enhancing **cloud-native deployments**
+* Experimenting with **AI integrations**
+
+## 🛤️ My Journey
+
+My development journey began in 2018 and has evolved steadily into full-stack and DevOps engineering:
+
+* **2018:** Launched my first Java project, gaining my first experience in software development and rented my first server in a data center.
+* **2019:** Developed small Java-based games and began assisting with server administration for a small Minecraft  network, setting the foundation for future infrastructure work.
+* **2020:** Took on expanded responsibilities as Team Dev Lead and Administrator of the Minecraft network, significantly scaling up the network, building comprehensive self-hosted infrastructure, and managing project workflows. Continued until 2022.
+* **2021:** Built cross-platform solutions integrating a web forum, Discord bot, Minecraft server, administration dashboard, TeamSpeak, and many other smaller systems. Started web development with PHP, CSS, HTML, and JavaScript. Also began addressing security challenges such as DDoS attacks and hacking attempts, implementing protective measures for the Minecraft network and the corresponding server infrastructure.
+* **2022:** Introduced deployment automation and pipelines. Transitioned from Java to **Kotlin** to embrace modern development practices.
+* **2023:** Engineered a clustered Minecraft cloud system, focusing on scalability, performance, and high availability — all powered by Redis. The cloud infrastructure also included a Discord bot, metrics backend, and automated deployment with backend services. [GitHub](https://github.com/RediCloud)
+* **2024:** Advanced into **Docker** and **Kubernetes** deployments. Initiated first AI-integrated projects and started using Python extensively for the first time, developing small to medium-sized applications and scripts.
+* **2025:** Focused on **DevOps**, scalable applications, microservices, zero-trust architecture, and private network solutions, with a strong emphasis on building secure applications (certificates, encrypted connections, zero-trust principles). [GitHub](https://github.com/Suqatri/mswa) (currently private)
+
+*Note: The years listed in the journey may vary by ±1 year. This journey reflects only my personal hobby projects and does not include professional or employment-related work.*
+
+## 📊 Badges & Stats
+[![wakatime](https://wakatime.com/badge/user/f492a0d2-e3af-4906-99eb-53fb16bacca5.svg)](https://wakatime.com/@f492a0d2-e3af-4906-99eb-53fb16bacca5)  
+_Total time coded since Oct 25 2021 (for hobby projects only; some time periods were not tracked)_
+
+![GitHub Stats](https://streak-stats.demolab.com?user=Suqatri&theme=dark&hide_border=false)
+
+## 📫 How to reach me
+* [paul@suqatri.net](mailto:paul@suqatri.net)
